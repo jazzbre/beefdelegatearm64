@@ -1,0 +1,5 @@
+FileVersion = 1
+
+[Project]
+Name = "CrashTest1"
+StartupObject = "CrashTest1.Program"
